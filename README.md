@@ -92,10 +92,9 @@
 
 ### 📌 Metrics Card:
 <p align="center">
-  <img src="https://github.com/bhushanpatil288/bhushanpatil288/blob/main/github-metrics.svg" alt="Metrics" />
+  <img src="./github-metrics.svg" alt="Metrics" />
 </p>
 
-_(You will need to create `github-metrics.svg` manually if you want this — or I can guide you if you want!)_
 
 ---
 
