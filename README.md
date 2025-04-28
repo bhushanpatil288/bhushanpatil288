@@ -1,38 +1,105 @@
 <h1 align="center">Hi 👋, I'm Bhushan Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 A Frontend Developer on a Journey to Full-Stack Mastery</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushanpatil288&label=Profile%20views&color=0e75b6&style=flat" alt="bhushanpatil288" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhushanpatil288" alt="bhushanpatil288" /></a> </p>
-
-- 🔭 I’m currently working on [portfolio site](https://bhushanpatil288.github.io/portfolio/)
-
-- 🌱 I’m currently learning **DSA**
-
-- 👨‍💻 All of my projects are available at [https://bhushanpatil288.github.io/portfolio/](https://bhushanpatil288.github.io/portfolio/)
-
-- 💬 Ask me about **html, css, javascript, bootstrap**
-
-- 📫 How to reach me **sharewithbhushan@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@bhushan91938529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bhushan91938529" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bhushan-patil-990530223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhushan patil" height="30" width="40" /></a>
-<a href="https://instagram.com/_bhushan_patil_28_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_bhushan_patil_28_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;Building%20awesome%20projects;Learning%20every%20single%20day;Love%20to%20design%20and%20code!&center=true&width=500&height=45&color=0E1EAEFF&vCenter=true&pause=1000&size=25" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhushanpatil288&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/b47a896300a70f2f99959dbd6a5160219e53d511d3d2caba3fb45908992ea62d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f416f7564756d6265722d426164652f416f7564756d6265722d426164652f70726f66696c652d736e616b652d636f6e747269622f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652d6461726b2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/f7fa0cfeae7df84bda908e73f4b93ba768b5a55a7a5c22f1cb9d336ba6475fb7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f416f7564756d6265722d426164652f416f7564756d6265722d426164652f70726f66696c652d736e616b652d636f6e747269622f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://camo.githubusercontent.com/b47a896300a70f2f99959dbd6a5160219e53d511d3d2caba3fb45908992ea62d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f416f7564756d6265722d426164652f416f7564756d6265722d426164652f70726f66696c652d736e616b652d636f6e747269622f6769746875622d636f6e747269627574696f6e2d677269642d736e616b652d6461726b2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake-dark.svg" style="visibility:visible;max-width:100%;">
-  </picture></themed-picture>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhushanpatil288&show_icons=true&locale=en&layout=compact" alt="bhushanpatil288" /></p>
+### ✨ About Me
+- 🔭 I’m currently working on **[My Portfolio Site](https://bhushanpatil288.github.io/portfolio/)**
+- 📚 I’m learning **Data Structures and Algorithms (DSA)** to sharpen my problem-solving skills
+- 👨‍💻 Check out all my projects 👉 [Projects Showcase](https://bhushanpatil288.github.io/portfolio/)
+- 💬 Ask me about **HTML | CSS | JavaScript | Bootstrap**
+- 📫 Reach out to me: **sharewithbhushan@gmail.com**
+- ⚡ Fun Fact: **I believe building projects is the fastest way to learn! 🚀**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhushanpatil288&show_icons=true&locale=en" alt="bhushanpatil288" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhushanpatil288&" alt="bhushanpatil288" /></p>
+<h3 align="left">🌐 Let's Connect:</h3>
+<p align="left">
+  <a href="https://twitter.com/bhushan91938529" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/bhushan-patil-990530223" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/_bhushan_patil_28_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+---
+
+<h3 align="left">💻 Tech Stack:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+
+---
+
+<h3 align="left">🏆 GitHub Achievements:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhushanpatil288&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhushanpatil288&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushanpatil288&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhushanpatil288&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center">🐍 Contribution Snake:</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🚀 Extras to Make it Super Super Duper:
+
+### 🌍 Visitors by Country Badge:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhushanpatil288&style=flat-square&color=blue" alt="Visitors" />
+</p>
+
+---
+
+### 📈 Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhushanpatil288&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+---
+
+### 📌 Metrics Card:
+<p align="center">
+  <img src="https://github.com/bhushanpatil288/bhushanpatil288/blob/main/github-metrics.svg" alt="Metrics" />
+</p>
+
+_(You will need to create `github-metrics.svg` manually if you want this — or I can guide you if you want!)_
+
+---
+
+<h3 align="center">💬 Quote to Remember:</h3>
+<p align="center"><b>"Consistency beats talent every time. Stay Hungry, Stay Foolish. 🚀"</b></p>
+
+---
