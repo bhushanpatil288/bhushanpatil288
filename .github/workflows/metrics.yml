@@ -1,8 +1,9 @@
-name: Metrics
+name: GitHub Metrics
+
 on:
-  schedule: [{cron: "0 */6 * * *"}] # every 6 hours
+  schedule:
+    - cron: "0 */12 * * *"  # every 12 hours
   workflow_dispatch:
-  push: {branches: ["main", "master"]}
 
 jobs:
   github-metrics:
@@ -10,7 +11,23 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
+          # GitHub token with public_repo and read:user permissions
           token: ${{ secrets.METRICS_TOKEN }}
+
+          user: bhushanpatil288
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+
+          # ✨ Plugins you want to enable
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+          plugin_stars: yes
+          plugin_followup: yes
+          plugin_notable: yes
+          plugin_traffic: yes
+          plugin_habits: yes
+          plugin_repositories: yes
+          plugin_lines: yes
