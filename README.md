@@ -26,7 +26,7 @@
   <a href="https://twitter.com/bhushan91938529" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/bhushan-patil-990530223" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/_bhushan_patil_28_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://app.daily.dev/BhushanPatil" target="blank">
+  <a href="https://app.daily.dev/bhushanpatil28" target="blank">
   <img align="center" src="https://img.shields.io/badge/daily.dev-282c34?style=for-the-badge&logo=daily.dev&logoColor=white" alt="daily.dev" />
 </a>
 
