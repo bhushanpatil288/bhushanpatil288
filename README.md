@@ -12,7 +12,7 @@
 ---
 
 ### ✨ About Me
-- 🔭 I’m currently working on **[My Portfolio Site](https://bhushanpatil288.github.io/portfolio/)**
+- 🔭 I’m currently working on **[My Mom's Site](https://bhushanpatil288.github.io/pooja-beauty-parlour/)**
 - 📚 I’m learning **Data Structures and Algorithms (DSA)** to sharpen my problem-solving skills
 - 👨‍💻 Check out all my projects 👉 [Projects Showcase](https://bhushanpatil288.github.io/portfolio/)
 - 💬 Ask me about **HTML | CSS | JavaScript | Bootstrap**
