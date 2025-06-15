@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhushan Patil</h1>
 <h3 align="center">🚀 A Frontend Developer on a Journey to Full-Stack Mastery</h3>
+<p align="center">Hi, I’m Bhushan 👋  
+A passionate web developer from Surat, India 🇮🇳. I love turning creative ideas into code and designing user-friendly interfaces. Currently on my journey to becoming a Full-Stack Web Developer 🚀.
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;Building%20awesome%20projects;Learning%20every%20single%20day;Love%20to%20design%20and%20code!&center=true&width=500&height=45&color=0E1EAEFF&vCenter=true&pause=1000&size=25" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Building%20awesome%20projects;Learning%20every%20single%20day;Love%20to%20design%20and%20code!&center=true&width=500&height=45&color=0E1EAEFF&vCenter=true&pause=1000&size=25" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,6 +13,11 @@
 </p>
 
 ---
+
+### 🚀 Featured Projects
+- 🔗 [**Portfolio Website**](https://bhushanpatil288.github.io/portfolio/) – Responsive portfolio built with HTML/CSS/BootStrap/JS.
+- 📘 [**DSA Journal**](https://bhushanpatil288.github.io/my-dsa-journal/) – Personal journal site.
+
 
 ### ✨ About Me
 - 🔭 I’m currently working on **[DSA Journal site](https://bhushanpatil288.github.io/my-dsa-journal/)**
@@ -43,6 +51,8 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </p>
 
 ---
@@ -95,9 +105,9 @@
 ---
 
 ### 📌 Metrics Card:
-<p align="center">
+<!--<p align="center">
   <img src="./github-metrics.svg" alt="Metrics" />
-</p>
+</p> -->
 
 
 ---
