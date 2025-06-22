@@ -20,7 +20,7 @@ A passionate web developer from Surat, India 🇮🇳. I love turning creative i
 
 
 ### ✨ About Me
-- 🔭 I’m currently working on **[DSA Journal site](https://bhushanpatil288.github.io/my-dsa-journal/)**
+- 🔭 I’m currently working on **[NEW PORTFOLIO site](https://github.com/bhushanpatil288/portfolio-new)**
 - 📚 I’m learning **Data Structures and Algorithms (DSA)** to sharpen my problem-solving skills
 - 👨‍💻 Check out all my projects 👉 [Projects Showcase](https://bhushanpatil288.github.io/portfolio/)
 - 💬 Ask me about **HTML | CSS | JavaScript | Bootstrap**
