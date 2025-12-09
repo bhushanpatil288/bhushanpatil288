@@ -23,7 +23,7 @@ A passionate web developer from Surat, India 🇮🇳. I love turning creative i
 - 🔭 I’m currently working on **[NEW PORTFOLIO site](https://github.com/bhushanpatil288/portfolio-new)**
 - 📚 I’m learning **Data Structures and Algorithms (DSA)** to sharpen my problem-solving skills
 - 👨‍💻 Check out all my projects 👉 [Projects Showcase](https://bhushanpatil288.github.io/portfolio/)
-- 💬 Ask me about **HTML | CSS | JavaScript | Bootstrap**
+- 💬 Ask me about **HTML | CSS | JavaScript | Bootstrap | TAILWIND | DSA | REACT |**
 - 📫 Reach out to me: **sharewithbhushan@gmail.com**
 - ⚡ Fun Fact: **I believe building projects is the fastest way to learn! 🚀**
 
@@ -42,21 +42,18 @@ A passionate web developer from Surat, India 🇮🇳. I love turning creative i
 
 ---
 
-<h3 align="left">💻 Tech Stack:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> -->
-  <!-- <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" /> -->
-</p>
+## 💻 Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Programming Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frontend (Core)** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Frontend (Frameworks/Libraries)** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend (Runtime)** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| **Backend (Frameworks)** | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+| **Python Web Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+
+
 
 
 ---
