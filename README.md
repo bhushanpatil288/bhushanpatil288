@@ -27,12 +27,8 @@ He focuses on building **clean UI, strong backend systems, and scalable web appl
 
 ## 🚀 Featured Web Development Projects
 
-- 🔗 **[Portfolio Website — Web Developer Portfolio (HTML, CSS, JavaScript)](https://bhushanpatil288.github.io/portfolio/)**  
+- 🔗 **[Portfolio Website — Full Stack Developer (React, NodeJS, ExpressJS, MongoDB)](https://portfolio-bhushan-patil.vercel.app/)**  
   A responsive personal portfolio website showcasing frontend development and UI skills.
-
-- 🔗 **[Portfolio (React) — Full-Stack Ready React Project](https://github.com/bhushanpatil288/PortfolioReact/)**  
-  A fully data-driven React portfolio project designed to scale into a full-stack app.
-
 ---
 
 ## ✨ About Bhushan Patil
