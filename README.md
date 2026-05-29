@@ -11,9 +11,8 @@ My goal is to grow into a <b>strong Full-Stack Developer</b> while building <b>r
   <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Frontend%20Developer;JavaScript%20Engineer;React%20Developer;Aspiring%20Full-Stack%20Developer;Building%20Real%20Projects&center=true&width=520&height=45&color=0E1EAEFF&vCenter=true&pause=1000&size=24" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhushanpatil288&label=GitHub%20Profile%20Views&color=0e75b6&style=flat" />
-</p>
+[![Bhushan Patil profile views](https://u8views.com/api/v1/github/profiles/192190791/views/day-week-month-total-count.svg)](https://u8views.com/github/bhushanpatil288)
+
 
 ---
 
