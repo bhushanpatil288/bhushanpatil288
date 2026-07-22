@@ -24,6 +24,46 @@ He focuses on building **clean UI, strong backend systems, and scalable web appl
 
 ---
 
+
+<div align="center">
+
+<table style="border:1px solid #ffffff !important;">
+<tr>
+
+<td width="45%" align="center" valign="middle" style="border:1px solid white;">
+
+<img src="./assets/braille-art.png" width="320">
+
+</td>
+
+<td width="55%" valign="middle" style="border:1px solid white;">
+
+<pre>
+$ whoami
+Bhushan Patil
+
+$ role
+Full-Stack Developer
+
+$ stack
+MERN | Python | C++
+
+$ currently
+Learning C#/.NET
+Microeconomics
+Perspective Drawing
+
+$ git status
+Building, learning, shipping 🚀
+</pre>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 ## 🚀 Featured Web Development Projects
 
 - 🔗 **[Portfolio Website — Full Stack Developer (React, NodeJS, ExpressJS, MongoDB)](https://portfolio-bhushan-patil.vercel.app/)**  
